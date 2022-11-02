@@ -1,1 +1,1 @@
-https://github.io/OreonCZ/jj/
+oreoncz.github.io/jj/
