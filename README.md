@@ -1,1 +1,1 @@
-# jj
+https://github.io/OreonCZ/jj/
