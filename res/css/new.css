@@ -1,0 +1,15 @@
+#content {
+    width: 180px;
+    height: 180px;
+    background: cyan;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    transition: .3s;
+    border-radius: 50%;
+}
+
+#vse {
+    margin: 0 auto;
+    
+}
